@@ -1,6 +1,3 @@
-# Use Case Diagram — کلینیک دامپزشکی
-
-```mermaid
 usecaseDiagram
     actor "پذیرش" as Reception
     actor "دامپزشک" as Doctor
@@ -16,3 +13,5 @@ usecaseDiagram
 
     Owner --> (رزرو نوبت)
     Owner --> (پرداخت هزینه‌ها)
+
+    (ثبت حیوان جدید) <-- (ایجاد پرونده جدید)
