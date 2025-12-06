@@ -20,7 +20,6 @@
 
 ## 📄 مستندات پروژه
 - [تحلیل نیازمندی‌ها](docs/requirements.md)
-- [موارد کاربرد و سناریوها](docs/use_cases.md)
 - [طراحی سیستم](docs/architecture.md)
 - [تحلیل اصول اولیه](docs/first_principles_analysis.md)
 - [Use Case Diagram](docs/usecase_diagram.md)
