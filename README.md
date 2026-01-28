@@ -31,7 +31,7 @@
 - [Use Case Diagram](docs/usecase_diagram.md)
 - [Activity Diagram](docs/Activity%20Diagram.md)
 - [State Diagram](docs/state_diagram.md)
-- [Class Diagram](docs/class_diagram.md)
+- [Class Diagram](docs/class-diagram.md)
 
 ---
 
