@@ -29,7 +29,7 @@
 - [طراحی سیستم](docs/architecture.md)
 - [تحلیل اصول اولیه](docs/first_principles_analysis.md)
 - [Use Case Diagram](docs/usecase_diagram.md)
-- [Activity Diagram](docs/activity_diagram.md)
+- [Activity Diagram](docs/Activity%20Diagram.md)
 - [State Diagram](docs/state_diagram.md)
 - [Class Diagram](docs/class_diagram.md)
 
